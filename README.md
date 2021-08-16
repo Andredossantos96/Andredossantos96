@@ -24,6 +24,9 @@
  <a href="https://api.whatsapp.com/send?phone=5511948758417&text=Ol%C3%A1%20eu%20vim%20do%20seu%20Github" target="_blank">
   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank">
  </a>
+ <a>
+  <a href="mailto:andresantos216@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" tagert="_blank">
+  </a>
 </div>
  
  ##
