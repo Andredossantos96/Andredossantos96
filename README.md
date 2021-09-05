@@ -15,6 +15,7 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Andre-Kotlin" height="30" width="40" src=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg>
   <img align="center" alt="Andre-Android" height="30" width="50" src=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg>
+ <img align="center" alt="Andre-Csharp" height="30" width="50" src=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg>
   
   ## 
  
