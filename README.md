@@ -17,6 +17,10 @@
   <img align="center" alt="Andre-Android" height="30" width="50" src=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg>
  <img align="center" alt="Andre-Csharp" height="30" width="50" src=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg>
  <img align="center" alt="Andre-.Net" height="30" width="50" src=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg>
+ <img align="center" alt="Andre-.Net" height="30" width="50" src=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg>
+ <img align="center" alt="Andre-.Net" height="30" width="50" src=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg>
+ <img align="center" alt="Andre-.Net" height="30" width="50" src=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg>
+ 
   
   ## 
  
