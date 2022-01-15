@@ -1,10 +1,8 @@
 ## Olá! Eu sou o André dos Santos
 
 
-- 🔭 Hoje trabalho com Analise de Veiculos
-- 🌱 Estudando Sistemas de informarção
-- 📫 (Contate-me no e-mail: andresantos216@gmail.com)
-
+- 🔭 Estagiário em Desenvolvimento Web
+- 🌱 Cursando Sistemas de informarção
 
  <div>
   <a href="https://github.com/Andredossantos96">
