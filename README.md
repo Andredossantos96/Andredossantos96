@@ -1,7 +1,5 @@
 ## Olá! Eu sou o André dos Santos
 
-
-- 🔭 Estagiário em Desenvolvimento Web
 - 🌱 Cursando Sistemas de informarção
 
  <div>
