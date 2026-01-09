@@ -1,12 +1,13 @@
 ## Olá! Eu sou o André dos Santos
 
 - 🌱 Cursando Sistemas de informarção
-
- <div>
+<!--  
+<div>
   <a href="https://github.com/Andredossantos96">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Andredossantos96&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andredossantos96&layout=compact&langs_count=7&theme=dark"/>
-</div>
+</div> 
+   -->
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Andre-Kotlin" height="26" width="50" src=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg>
